@@ -1,6 +1,6 @@
 # Read (on top of the weekly readings):
 
-- The kinetic poem ["Taroko Gorge"] (https://collection.eliterature.org/3/work.html?work=taroko-gorge)
+- The kinetic poem ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
 - The electronic poem "The Gathering Cloud"
 - The hypertext fiction "First Draft of the Revolution"
 - The interactive fiction work "Shade"

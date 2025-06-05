@@ -1,5 +1,8 @@
 # Digital Writing Exercises and Reflections - Liv De Lesantis 
 
+## Artist Statement: 
+Olivia De Lesantis is a writer and creative director from Naarm. Her work primarily involves goddesses of deduction and ladies of ill-repute. She is an ardent feminist, and her poetry seeks to explore and unpack the various nuances of her womanhood. If her writing was a person, they would wear the finest gourmand fragrance and shoot from the hip. Olivia works as Creative Director at Stories Connecting Us; an emerging, innovative literary space for writers and readers. She is Director and Founder of Aphrodite’s Blush Creative Services; a freelance marketing agency centred around assisting businesses to connect meaningfully with their customers; website coming soon! You can connect with her via her Instagram, TikTok and Substack blog – @livandothermysteries.
+
 ## Week One - Introducing E-Lit and Digital Writing & About Me and My Practice
 ### What do you think digital writing is?
 Digital writing to me is the junction of the written word and the use of technological elements to bring ideas and stories to life. I think the distinction between "flat writing" - i.e: simply blocks of text published in the digital realm - and "digital writing" is that the writing itself must be mobilised by an interactivity between reader and text. I think there needs to be an element of play and of agency for the reader - in that they are not simply just "reading" words  written on a digitised platform, they are experiencing, choosing, acting and even modifying the text. 
@@ -61,4 +64,14 @@ Today we workshopped our pieces with our peers and pooled our ideas to troublesh
 
 ## Week Ten - Discussion of Final Project and Learnings So Far: 
 Updating the journal with my thoughts so far now that we're 10 weeks into the semester: I think my most exciting development has been seeing my coding skills progress from minimal to progressively more competent as the weeks go on. I think the central struggle that I've faced throughout the semester has been time management - as this is a new technique/medium for me, the main obstacle I'm contending with has been making small bites of progress at the expense of several hours of time. I wasn't as aware of that factor coming into the class, and in that way I suppose I underestimated the artistry and testing processes that go into developing coded Digital Writing. This subject has shaped my writing practice by opening my eyes to the possibility of creating and coding my own websites on platforms like Glitch, and experimenting with digital writing avenues for my published work. Particularly beyond the scope of this course, I am looking to apply my coding to my professional portfolio to enhance the longevity, customisable nature and financial sustainability of my own creative media spaces. I think, long term, I would like to play around with more digital writing platforms such as Bitsy and Twine in my own time - particularly when I have the freedom to experiment with different topics, lengths and concepts outside a University-assessed piece. 
+
+## Weeks Eleven to Thirteen - Reflections On Making 'Who Killed Miss Jones'...
+I must confess, this has been the hardest subject I've ever done throughout the course of my degree. That's not to say that I haven't enjoyed it, but it has been a right old slog. I've poured more hours into this than I have any assignment I've done so far. On average, maybe around 6 hours a day in the last few weeks. Partially because I kept making mistakes, partially because I kept finding really cool ideas to play with. I'm really proud of what I've been producing. Firstly, in executing my idea, I had to produce four different threads that make each individual character feel fully realised and concrete. I completed a "transcript" section for each character, and then an "evidence" section, to give the player an insight into the purported record of the truth, initially, and then, perhaps, the truth. As you can see here, I ended up with around 269 passages altogether! I used a colour-coding system to help me organise this massive chain of passages: ![Screen Shot 2025-06-05 at 10 16 49 pm](https://github.com/user-attachments/assets/6a610083-1dc9-46b0-b4b7-fca8fed0b886) Because I am going to create a conditional passage (meaning that it will only be accessible when you click through the four character accounts ALL THE WAY TO THE END), I need to start thinking about how I can get these macros to work for me. Bit worried about that, but we'll get to it later once I've finished with the rest of the code for the four main characters. 
+### Creating "Carmen" 
+
+
+
+
+
+
  

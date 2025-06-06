@@ -58,10 +58,9 @@ Since we were shown the 'Inspect' function that is available on different websit
 According to the reading for this week, Aarseth proposes the term 'ergodics' as a way of dissecting the layer of storytelling that, in my opinion, feels most like it's describing choices/factors that advance the plot: "a situation in which a chain of events (a path, a sequence of actions, etc.) has been produced by the non trivial efforts of one or more individuals or mechanisms" (1997, pp.94). In relation to the development of my final project, I'm thinking of appyling this concept to the digital writing for interactive fiction space. In digital fiction, the story is often furthered by the readers' actions - whether that be clicking to reveal a new paragraph or passage, inputting an answer or selecting an option. I think that the concept of 'ergodic' is particularly relevant to digital writing as the chain of events is **_physically** **programmed**_ to provide an outcome/outcomes for the reader. Brainstorming ideas for my final assessment task, it is likely that I'll be creating some kind of mystery or thriller narrative - I intend to use the concept of ergodics to establish a chain of events that are mobilised by the reader actively participating in the 'solving' of the story. 
 
 ## Tristan Tzara's 'To Make a Dadaist Poem' in Practice: 
-I used an old Country Living Magazine to make my Dadaist poem, which I've entitled Glass-Blowing. If I was to do this exercise again - which I will, because I had a lot of fun doing it! - I'd probably try to cutout more linking/conjunctive words so that the poem flows more coherently. Here is the scrapbooked version in my writer's journal: ![dadaistpoem](https://github.com/user-attachments/assets/890a9c06-8337-40d3-8b9f-6b2b521d70f5). And here is the typed version: 
-*glass-blowing* 
+I used an old Country Living Magazine to make my Dadaist poem, which I've entitled Glass-Blowing. If I was to do this exercise again - which I will, because I had a lot of fun doing it! - I'd probably try to cutout more linking/conjunctive words so that the poem flows more coherently. Here is the scrapbooked version in my writer's journal: ![dadaistpoem](https://github.com/user-attachments/assets/890a9c06-8337-40d3-8b9f-6b2b521d70f5).
 
-
+## Coding In Twine - Image-Mapping in Practice: 
 
 
 ## Week Six: Reflections on Student Folios and Final Works and Testing out Bitsy
